@@ -4,15 +4,7 @@ body{
     background-color: black;
 }
 
-table{
-    margin: 0px auto; 
-    width: 150px;
-}
-
-a:hover{
-    color: rgb(255, 80, 80);
-}
-
-a:visited{
-    color: red;
+#holder{
+    width:800px;
+    margin:auto;
 }
