@@ -1,8 +1,9 @@
 body{
     text-align: center;
-    color: rgb(255, 53, 53);
+    color: cyan;
     background-color: black;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-image: url("/imgs/tile.jpg");
+    background-repeat: repeat;
 }
 
 #holder{
@@ -15,6 +16,6 @@ table{
     display: inline-block;
 }
 
-a:visited{
-    color: #ff6666;
+a{
+    color:plum;
 }
